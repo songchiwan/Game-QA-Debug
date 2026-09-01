@@ -2,10 +2,10 @@
 Game QA 버그 리포트/게임 분석서/테스트케이스
 
 ## 1. basic
-### [1. bug-report.md]()
+### 1. [bug-report.md](https://github.com/songchiwan/Game-QA-Debug/blob/main/basic/bug-report.md)
 버그 리포트 기본 양식이다. 
 
-### 2. env-matrix.md
+### 2. [env-matrix.md](https://github.com/songchiwan/Game-QA-Debug/blob/main/basic/env-matrix.md)
 게임을 플레이한 장비들에 대한 내용이 있다.
 
 
