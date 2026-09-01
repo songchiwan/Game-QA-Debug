@@ -12,9 +12,9 @@ Game QA 버그 리포트/게임 분석서/테스트케이스
 
 ## 2. 버그 리포트
 
-### 1. ZZZ(젠레스 존 제로)
+### 1. [ZZZ(젠레스 존 제로)](https://github.com/songchiwan/Game-QA-Debug/blob/main/Bug-Report/ZZZ.md)
 
-### 2. 붕괴:스타레일
+### 2. [붕괴: 스타레일](https://github.com/songchiwan/Game-QA-Debug/blob/main/Bug-Report/Honkai:%20Star%20Rail.md)
 
 ### 3. 블루아카이브
 
