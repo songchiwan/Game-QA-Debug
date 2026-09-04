@@ -9,6 +9,4 @@
 실제결과 : 이전에 있던 화면 또는 다른 그림 화면에서 제목이 나옴. 
 
 스크린샷/로그 : [유튜브 링크](https://youtu.be/uCpvvrnejJs)
-assets/BlueArchive_Bug-01.png
-
-
+<img width="1184" height="647" alt="스크린샷 2026-09-04 140656" src="https://github.com/user-attachments/assets/952e6cc4-a17d-4900-a121-3ae67bae353d" />
