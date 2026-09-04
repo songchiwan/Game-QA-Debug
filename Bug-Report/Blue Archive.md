@@ -8,9 +8,7 @@
 
 실제결과 : 이전에 있던 화면 또는 다른 그림 화면에서 제목이 나옴. 
 
-스크린샷/로그
-
-[유튜브 링크](https://youtu.be/uCpvvrnejJs)
+스크린샷/로그 : [유튜브 링크](https://youtu.be/uCpvvrnejJs)
 <img width="1184" height="647" alt="image" src="https://github.com/user-attachments/assets/1f066ccf-ba1b-44ed-aadb-4eb16a28b577" />
 
 
