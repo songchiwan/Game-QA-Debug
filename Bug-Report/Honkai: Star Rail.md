@@ -34,3 +34,5 @@
 실제 결과 : CSS 형태의 태그들이 나왔고 디자인이 적용 안됨 
 
 스크린샷/로그 : [유튜브 링크]()
+<img width="946" height="883" alt="Starrail_Bug-03_1" src="https://github.com/user-attachments/assets/13c71a7f-c281-4771-9e81-dc000374a8a7" />
+<img width="866" height="727" alt="Starrail_Bug-03_2" src="https://github.com/user-attachments/assets/775fdd9c-ff55-4d6c-9a72-fd9c2992b6f8" />
