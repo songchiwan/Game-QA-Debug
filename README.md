@@ -20,6 +20,8 @@ Game QA 버그 리포트/게임 분석서/테스트케이스
 
 ### 4. [명일방주: 엔드필드](https://github.com/songchiwan/Game-QA-Debug/blob/main/Bug-Report/Arknights%3A%20Endfield.md)
 
+### 5. [이환NTE]
+
 ## 2. 게임 분석서
 
 ## 3. 테스트케이스
